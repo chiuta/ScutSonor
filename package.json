@@ -1,0 +1,9 @@
+{
+  "name": "scut-sonor",
+  "version": "2.0.0",
+  "description": "Scut Sonor — sunet puternic, strobe cu lanterna și ghid de siguranță pentru câini periculoși, într-un singur fișier HTML, offline, fără urmărire.",
+  "license": "MIT",
+  "private": true,
+  "scripts": { "test": "node tests/app.test.mjs && node tests/scut.test.mjs" },
+  "devDependencies": { "playwright": "^1.48.0" }
+}

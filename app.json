@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "slug": "scut-sonor",
+  "name": "Scut Sonor — alungare câini",
+  "version": "2.0.0",
+  "updated": "2026-11-14",
+  "description": "Scut Sonor — sunet puternic, strobe cu lanterna și ghid de siguranță pentru întâlniri cu câini periculoși. Un singur fișier, offline, fără urmărire.",
+  "egress": [],
+  "permissions": [
+    "getUserMedia"
+  ],
+  "storageKeys": [],
+  "sizeBytes": 156660,
+  "sha256": "a0cdadf4362ba99cdcc1272e1987294aba6b6753f08eb2f103f2153ac35e1b3d",
+  "csp": {
+    "present": true,
+    "directives": {
+      "default-src": "'none'",
+      "style-src": "'unsafe-inline'",
+      "script-src": "sha256×2",
+      "img-src": "data:",
+      "media-src": "blob: data:",
+      "connect-src": "'none'",
+      "base-uri": "'none'",
+      "form-action": "'none'"
+    },
+    "scriptInline": "hash",
+    "connect": "'none'"
+  },
+  "features": {
+    "export": false,
+    "import": false,
+    "i18n": [],
+    "pwa": {
+      "manifest": false,
+      "serviceWorker": false
+    },
+    "modules": [
+      "core",
+      "exit",
+      "view",
+      "ux",
+      "label"
+    ]
+  },
+  "kit": {
+    "version": "1.5.0",
+    "modules": [
+      "core",
+      "exit",
+      "view",
+      "ux",
+      "label"
+    ]
+  },
+  "selfSerializing": false
+}
