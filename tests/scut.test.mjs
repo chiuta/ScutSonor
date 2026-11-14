@@ -12,6 +12,7 @@ const check = (n, c, x) => { if (c) { ok++; console.log("  ok   " + n); } else {
 const b = await chromium.launch({executablePath: process.env.CHROMIUM_PATH || undefined, args: ["--no-sandbox", "--autoplay-policy=no-user-gesture-required", "--use-fake-ui-for-media-stream"]});
 const errs = [], net = [];
 const ctx = await b.newContext({viewport: {width: 390, height: 844}, hasTouch: true, isMobile: true, serviceWorkers: "block"});
+await ctx.addInitScript(() => { try { localStorage.setItem("scut-sonor.lang", JSON.stringify("ro")); } catch (e) {} });
 await ctx.route(/^https?:/, (r) => { net.push(r.request().url()); r.abort(); });
 const p = await ctx.newPage();
 p.on("pageerror", (e) => errs.push(e.message));
@@ -49,6 +50,7 @@ check("lanternă indisponibilă: mesaj de eroare vizibil", /nu e disponibil/i.te
 // fără AudioContext: mesaj
 {
   const c2 = await b.newContext({serviceWorkers: "block"});
+await c2.addInitScript(() => { try { localStorage.setItem("scut-sonor.lang", JSON.stringify("ro")); } catch (e) {} });
   const q = await c2.newPage();
   await q.addInitScript(() => { delete window.AudioContext; delete window.webkitAudioContext; });
   await q.goto(FILE); await q.waitForTimeout(400); await q.click("#emit");

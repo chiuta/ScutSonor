@@ -12,6 +12,10 @@ _Versión: 2.0.0 · Última actualización: 2026-11-14_
 |---|---|---|
 | ![](docs/telefon-acasa.png) | ![](docs/telefon-emisie.png) | ![](docs/telefon-zi.png) |
 
+## Capturas de pantalla
+
+<img src="docs/screens/ro.png" alt="RO" width="110"> <img src="docs/screens/en.png" alt="EN" width="110"> <img src="docs/screens/fr.png" alt="FR" width="110"> <img src="docs/screens/de.png" alt="DE" width="110"> <img src="docs/screens/es.png" alt="ES" width="110"> <img src="docs/screens/it.png" alt="IT" width="110"> <img src="docs/screens/hu.png" alt="HU" width="110"> <img src="docs/screens/pt.png" alt="PT" width="110">
+
 ## Funciones
 
 - Cuatro modos: barrido áspero 2–8 kHz, ultrasonido experimental, sirena de dos tonos y prueba del altavoz que muestra dónde deja de sonar.
@@ -27,7 +31,7 @@ Abre la página en línea, o descarga `index.html` y ábrelo en un navegador rec
 
 - La evidencia de que el sonido disuade a los perros es débil; es una ayuda, no un escudo, y no sustituye una conducta segura ni llamar al 112.
 - Los altavoces de los teléfonos reproducen mal el ultrasonido por encima de ~15–16 kHz; la barra «Señal» muestra la señal generada, no la salida real.
-- Interfaz solo en rumano por ahora.
+- Interfaz en 8 idiomas (RO, EN, FR, DE, ES, IT, HU, PT), elegible en el selector de la aplicación; traducciones asistidas por máquina, no revisadas por hablantes nativos.
 
 ## Privacidad
 

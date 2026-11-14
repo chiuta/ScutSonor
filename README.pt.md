@@ -12,6 +12,10 @@ _Versão: 2.0.0 · Última atualização: 2026-11-14_
 |---|---|---|
 | ![](docs/telefon-acasa.png) | ![](docs/telefon-emisie.png) | ![](docs/telefon-zi.png) |
 
+## Capturas de ecrã
+
+<img src="docs/screens/ro.png" alt="RO" width="110"> <img src="docs/screens/en.png" alt="EN" width="110"> <img src="docs/screens/fr.png" alt="FR" width="110"> <img src="docs/screens/de.png" alt="DE" width="110"> <img src="docs/screens/es.png" alt="ES" width="110"> <img src="docs/screens/it.png" alt="IT" width="110"> <img src="docs/screens/hu.png" alt="HU" width="110"> <img src="docs/screens/pt.png" alt="PT" width="110">
+
 ## Funções
 
 - Quatro modos: varrimento áspero 2–8 kHz, ultrassons experimentais, sirene de dois tons e teste do altifalante que mostra onde deixa de soar.
@@ -27,7 +31,7 @@ Abra a página online, ou descarregue `index.html` e abra-o num navegador recent
 
 - As provas de que o som afasta cães são fracas; é uma ajuda, não um escudo, e não substitui um comportamento seguro nem ligar ao 112.
 - Os altifalantes dos telemóveis reproduzem mal ultrassons acima de ~15–16 kHz; a barra «Sinal» mostra o sinal gerado, não a saída real.
-- Interface apenas em romeno por agora.
+- Interface em 8 idiomas (RO, EN, FR, DE, ES, IT, HU, PT), à escolha no seletor da aplicação; traduções assistidas por máquina, não revisadas por falantes nativos.
 
 ## Privacidade
 

@@ -12,6 +12,10 @@ _Version: 2.0.0 · Zuletzt aktualisiert: 2026-11-14_
 |---|---|---|
 | ![](docs/telefon-acasa.png) | ![](docs/telefon-emisie.png) | ![](docs/telefon-zi.png) |
 
+## Screenshots
+
+<img src="docs/screens/ro.png" alt="RO" width="110"> <img src="docs/screens/en.png" alt="EN" width="110"> <img src="docs/screens/fr.png" alt="FR" width="110"> <img src="docs/screens/de.png" alt="DE" width="110"> <img src="docs/screens/es.png" alt="ES" width="110"> <img src="docs/screens/it.png" alt="IT" width="110"> <img src="docs/screens/hu.png" alt="HU" width="110"> <img src="docs/screens/pt.png" alt="PT" width="110">
+
 ## Funktionen
 
 - Vier Modi: schriller Sweep 2–8 kHz, experimenteller Ultraschall, Zweiton-Sirene und Lautsprechertest, der zeigt, wo der Lautsprecher aufhört.
@@ -27,7 +31,7 @@ Seite online öffnen oder `index.html` herunterladen und in einem aktuellen Brow
 
 - Die Belege, dass Schall Hunde abschreckt, sind schwach; es ist eine Hilfe, kein Schild, und ersetzt weder sicheres Verhalten noch den Notruf 112.
 - Handy-Lautsprecher geben Ultraschall über ~15–16 kHz kaum wieder; die Anzeige „Signal“ zeigt das erzeugte Signal, nicht die tatsächliche Ausgabe.
-- Oberfläche vorerst nur auf Rumänisch.
+- Oberfläche in 8 Sprachen (RO, EN, FR, DE, ES, IT, HU, PT), im Auswahlfeld der App wählbar; Übersetzungen maschinell unterstützt und nicht von Muttersprachlern geprüft.
 
 ## Datenschutz
 

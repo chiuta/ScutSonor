@@ -12,6 +12,10 @@ _Version: 2.0.0 · Dernière mise à jour: 2026-11-14_
 |---|---|---|
 | ![](docs/telefon-acasa.png) | ![](docs/telefon-emisie.png) | ![](docs/telefon-zi.png) |
 
+## Captures d’écran
+
+<img src="docs/screens/ro.png" alt="RO" width="110"> <img src="docs/screens/en.png" alt="EN" width="110"> <img src="docs/screens/fr.png" alt="FR" width="110"> <img src="docs/screens/de.png" alt="DE" width="110"> <img src="docs/screens/es.png" alt="ES" width="110"> <img src="docs/screens/it.png" alt="IT" width="110"> <img src="docs/screens/hu.png" alt="HU" width="110"> <img src="docs/screens/pt.png" alt="PT" width="110">
+
 ## Fonctions
 
 - Quatre modes : balayage strident 2–8 kHz, ultrasons expérimentaux, sirène à deux tons et test du haut-parleur montrant où il s’arrête.
@@ -27,7 +31,7 @@ Ouvrez la page en ligne, ou téléchargez `index.html` et ouvrez-le dans un navi
 
 - Les preuves que le son éloigne les chiens sont faibles ; c’est une aide, pas un bouclier, et cela ne remplace ni un comportement prudent ni l’appel du 112.
 - Les haut-parleurs de téléphone reproduisent mal les ultrasons au-delà de ~15–16 kHz ; la barre « Signal » montre le signal généré, pas la sortie réelle.
-- Interface en roumain uniquement pour l’instant.
+- Interface en 8 langues (RO, EN, FR, DE, ES, IT, HU, PT), au choix dans le sélecteur de l’application ; traductions assistées par machine, non relues par des locuteurs natifs.
 
 ## Confidentialité
 

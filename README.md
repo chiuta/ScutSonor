@@ -12,6 +12,10 @@ _Version: 2.0.0 · Last updated: 2026-11-14_
 |---|---|---|
 | ![](docs/telefon-acasa.png) | ![](docs/telefon-emisie.png) | ![](docs/telefon-zi.png) |
 
+## Screenshots
+
+<img src="docs/screens/ro.png" alt="RO" width="110"> <img src="docs/screens/en.png" alt="EN" width="110"> <img src="docs/screens/fr.png" alt="FR" width="110"> <img src="docs/screens/de.png" alt="DE" width="110"> <img src="docs/screens/es.png" alt="ES" width="110"> <img src="docs/screens/it.png" alt="IT" width="110"> <img src="docs/screens/hu.png" alt="HU" width="110"> <img src="docs/screens/pt.png" alt="PT" width="110">
+
 ## Features
 
 - Four modes: harsh sweep 2–8 kHz, experimental ultrasound, two-tone siren, and a speaker test that shows where your phone speaker stops.
@@ -27,7 +31,7 @@ Open the page online, or download `index.html` and open it in a recent browser (
 
 - Evidence that sound deters dogs is weak; this is an aid, not a shield, and does not replace safe behaviour or calling 112.
 - Phone speakers barely reproduce ultrasound above ~15–16 kHz; the “Signal” bar shows the generated signal, not the real speaker output.
-- Interface in Romanian only for now.
+- Interface in 8 languages (RO, EN, FR, DE, ES, IT, HU, PT), chosen from the selector in the app; translations are machine-assisted and not reviewed by native speakers.
 
 ## Privacy
 
