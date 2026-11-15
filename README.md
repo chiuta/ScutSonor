@@ -6,7 +6,7 @@ Loud sound, flashlight strobe and a safety guide for encounters with dangerous d
 
 **[Open the app →](https://scutsonor.chiuta.ro/)**
 
-_Version: 2.0.0 · Last updated: 2026-11-14_
+_Version: 2.2.0 · Last updated: 2026-11-15_
 
 | 1 | 2 | 3 |
 |---|---|---|
