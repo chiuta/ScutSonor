@@ -6,7 +6,7 @@ Hangos hang, zseblámpa-villogás és biztonsági útmutató veszélyes kutyákk
 
 **[Alkalmazás megnyitása →](https://scutsonor.chiuta.ro/)**
 
-_Verzió: 2.2.0 · Utolsó frissítés: 2026-11-15_
+_Verzió: 2.2.1 · Utolsó frissítés: 2026-11-15_
 
 | 1 | 2 | 3 |
 |---|---|---|
