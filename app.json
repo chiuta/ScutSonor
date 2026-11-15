@@ -8,19 +8,20 @@
   "egress": [],
   "permissions": [
     "getUserMedia",
-    "localStorage"
+    "localStorage",
+    "WebGL"
   ],
   "storageKeys": [
     "scut-sonor.lang"
   ],
-  "sizeBytes": 191408,
-  "sha256": "cf623867a53bb8b6ce3d0f47eaf5bbcd762418c59063182448af90f159c9db07",
+  "sizeBytes": 243417,
+  "sha256": "406daf02911923cf2d3b084aaedff0294151eb9e9aa2490d65c7ab7e7643b19f",
   "csp": {
     "present": true,
     "directives": {
       "default-src": "'none'",
       "style-src": "'unsafe-inline'",
-      "script-src": "sha256×3",
+      "script-src": "sha256×4",
       "img-src": "data:",
       "media-src": "blob: data:",
       "connect-src": "'none'",
