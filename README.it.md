@@ -6,7 +6,7 @@ Suono potente, strobo della torcia e guida di sicurezza per incontri con cani pe
 
 **[Apri l’app →](https://scutsonor.chiuta.ro/)**
 
-_Versione: 2.2.1 · Ultimo aggiornamento: 2026-11-15_
+_Versione: 2.2.2 · Ultimo aggiornamento: 2026-11-17_
 
 | 1 | 2 | 3 |
 |---|---|---|

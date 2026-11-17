@@ -6,7 +6,7 @@ Som potente, estroboscópio da lanterna e guia de segurança para encontros com 
 
 **[Abrir a aplicação →](https://scutsonor.chiuta.ro/)**
 
-_Versão: 2.2.1 · Última atualização: 2026-11-15_
+_Versão: 2.2.2 · Última atualização: 2026-11-17_
 
 | 1 | 2 | 3 |
 |---|---|---|

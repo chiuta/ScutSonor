@@ -6,7 +6,7 @@ Sonido potente, estroboscopio de linterna y guía de seguridad ante perros pelig
 
 **[Abrir la aplicación →](https://scutsonor.chiuta.ro/)**
 
-_Versión: 2.2.1 · Última actualización: 2026-11-15_
+_Versión: 2.2.2 · Última actualización: 2026-11-17_
 
 | 1 | 2 | 3 |
 |---|---|---|

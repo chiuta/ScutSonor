@@ -6,7 +6,7 @@ Son puissant, stroboscope de lampe torche et guide de sécurité face à des chi
 
 **[Ouvrir l’application →](https://scutsonor.chiuta.ro/)**
 
-_Version: 2.2.1 · Dernière mise à jour: 2026-11-15_
+_Version: 2.2.2 · Dernière mise à jour: 2026-11-17_
 
 | 1 | 2 | 3 |
 |---|---|---|
