@@ -2,8 +2,8 @@
   "schema": 1,
   "slug": "scut-sonor",
   "name": "Scut Sonor — alungare câini",
-  "version": "2.2.2",
-  "updated": "2026-11-17",
+  "version": "2.2.3",
+  "updated": "2026-11-20",
   "description": "Scut Sonor — sunet puternic, strobe cu lanterna și ghid de siguranță pentru întâlniri cu câini periculoși. Un singur fișier, offline, fără urmărire.",
   "egress": [],
   "permissions": [
@@ -14,8 +14,8 @@
   "storageKeys": [
     "scut-sonor.lang"
   ],
-  "sizeBytes": 368703,
-  "sha256": "32dde8e28d7578b140765e71211c9cde59a75337b35200be7e3f17fb7e9e8bbf",
+  "sizeBytes": 373014,
+  "sha256": "394d2b630d5a5c384c9b0b3d09876921133f22446f5bb2d3f9aeed060019514d",
   "csp": {
     "present": true,
     "directives": {
@@ -59,7 +59,7 @@
     ]
   },
   "kit": {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "modules": [
       "core",
       "exit",

@@ -6,7 +6,7 @@ Sunet puternic, strobe cu lanterna și ghid de siguranță pentru întâlniri cu
 
 **[Deschide aplicația →](https://scutsonor.chiuta.ro/)**
 
-_Versiune: 2.2.2 · Ultima actualizare: 2026-11-17_
+_Versiune: 2.2.3 · Ultima actualizare: 2026-11-20_
 
 | 1 | 2 | 3 |
 |---|---|---|

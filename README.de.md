@@ -6,7 +6,7 @@ Lauter Ton, Taschenlampen-Stroboskop und Sicherheitsleitfaden für Begegnungen m
 
 **[App öffnen →](https://scutsonor.chiuta.ro/)**
 
-_Version: 2.2.2 · Zuletzt aktualisiert: 2026-11-17_
+_Version: 2.2.3 · Zuletzt aktualisiert: 2026-11-20_
 
 | 1 | 2 | 3 |
 |---|---|---|
